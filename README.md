@@ -1,2 +1,4 @@
 # web-dev-roadmap
-trying to see if I wanna do some web dev or not
+
+I am gonna follow a very simple roadmap idea exploring front end and back end concepts, if you think you can provide a new approach to something as the repo 
+progesses, feel free to share
